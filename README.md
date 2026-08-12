@@ -85,11 +85,15 @@ MERN stack project management application for managing projects, tasks and team 
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jnanesh-Bhat&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnanesh-Bhat&layout=compact&theme=tokyonight" height="170"/>
+  <a href="https://github.com/Jnanesh-Bhat">
+    <img
+      src="https://streak-stats.demolab.com?user=Jnanesh-Bhat&theme=tokyonight"
+      alt="Jnanesh Bhat GitHub Streak"
+    />
+  </a>
 </p>
 
 ---
